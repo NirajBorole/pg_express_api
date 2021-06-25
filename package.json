@@ -1,0 +1,28 @@
+{
+  "name": "pg_express_crud_app",
+  "version": "1.0.0",
+  "description": "Basic CRUD app with postgresql and express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NirajBorole/pg_express_crud_app.git"
+  },
+  "keywords": [
+    "CRUD",
+    "POSTREGSQL",
+    "EXPRESS"
+  ],
+  "author": "Niraj B. Borole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NirajBorole/pg_express_crud_app/issues"
+  },
+  "homepage": "https://github.com/NirajBorole/pg_express_crud_app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}
